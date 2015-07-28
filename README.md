@@ -1,7 +1,13 @@
 ## PHP CookBook(第三版) 
 
-在阅读《 PHP CookBook 》但是没有找到最新版的中文翻译，特此开一个项目，希望边读边翻译。
+在阅读《 PHP CookBook 》
+![](imgs/cover.png)
 
-刘凯宁
+但是没有找到最新版的中文翻译，特此开一个项目，希望边读边翻译。
 
-20150727
+
+----------
+
+## 目录 ##
+
+[chapter1_strings_1.0_简介.md](content/chapter1_strings_1.0_简介.md)
