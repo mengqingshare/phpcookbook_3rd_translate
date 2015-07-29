@@ -24,4 +24,8 @@
 
 `strops()` 函数的[使用方法](http://www.php.net/strpos)
 
+----------
+
+
+[【返回目录】](README.md)
 
