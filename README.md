@@ -12,4 +12,9 @@
 
 ## 目录 ##
 
-[chapter1_strings_1.0_简介.md](content/chapter1_strings_1.0_简介.md)
+### Chapter 1: 字符串
+
+1.0 [简介](content/chapter1_strings_1.0_简介.md)
+
+1.1 [查找子字符串](content/chapter1_strings_1.1_访问子字符串.md)
+
