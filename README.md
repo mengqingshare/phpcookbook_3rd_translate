@@ -18,3 +18,5 @@
 
 1.1 [访问子字符串](content/chapter1_strings_1.1_访问子字符串.md)
 
+1.2 [提取子字符串](content/chapter1_strings_1.2_提取子字符串.md)
+
