@@ -79,7 +79,7 @@
 #### 请参阅
 
 
-`substr()` 函数的[使用方法](http://www.php.net/substr)
+`substr()` 函数的[使用方法](http://php.net/manual/zh/function.substr.php)
 
 ----------
 

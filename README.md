@@ -20,6 +20,8 @@
 
 1.2 [提取子字符串](content/chapter1_strings_1.2_提取子字符串.md)
 
+1.3 [替换字符串 ](content/chapter1_strings_1.3_替换字符串.md)
+
 ---
 <未完待续>
 

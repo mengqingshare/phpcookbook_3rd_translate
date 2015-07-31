@@ -22,7 +22,7 @@
 
 #### 请参阅
 
-`strops()` 函数的[使用方法](http://www.php.net/strpos)
+`strops()` 函数的[使用方法](http://php.net/manual/zh/function.strpos.php)
 
 ----------
 
