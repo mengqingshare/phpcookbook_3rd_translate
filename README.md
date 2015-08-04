@@ -24,6 +24,7 @@
 
 1.4 [单独处理字符串的每一个字节 ](content/chapter1_strings_1.4_单独处理字符串的每一个字节.md)
 
+1.5 [翻转字符串](content/chapter1_strings_1.5_翻转字符串.md)
 
 
 ---
