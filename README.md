@@ -14,17 +14,17 @@
 
 ### Chapter 1: 字符串
 
-1.0 [简介](content/chapter1_strings_1.0_简介.md)
+- 1.0 [简介](content/chapter1_strings_1.0_简介.md)
 
-1.1 [访问子字符串](content/chapter1_strings_1.1_访问子字符串.md)
+- 1.1 [访问子字符串](content/chapter1_strings_1.1_访问子字符串.md)
 
-1.2 [提取子字符串](content/chapter1_strings_1.2_提取子字符串.md)
+- 1.2 [提取子字符串](content/chapter1_strings_1.2_提取子字符串.md)
 
-1.3 [替换字符串 ](content/chapter1_strings_1.3_替换字符串.md)
+- 1.3 [替换字符串 ](content/chapter1_strings_1.3_替换字符串.md)
 
-1.4 [单独处理字符串的每一个字节 ](content/chapter1_strings_1.4_单独处理字符串的每一个字节.md)
+- 1.4 [单独处理字符串的每一个字节 ](content/chapter1_strings_1.4_单独处理字符串的每一个字节.md)
 
-1.5 [翻转字符串](content/chapter1_strings_1.5_翻转字符串.md)
+- 1.5 [翻转字符串](content/chapter1_strings_1.5_翻转字符串.md)
 
 
 ---
