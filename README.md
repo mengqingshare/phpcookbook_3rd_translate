@@ -26,6 +26,7 @@
 
 - 1.5 [翻转字符串](content/chapter1_strings_1.5_翻转字符串.md)
 
+- 1.6 [生成随机字符串](content/chapter1_strings_1.6_生成随机字符串.md)
 
 ---
 <未完待续>
