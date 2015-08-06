@@ -28,6 +28,8 @@
 
 - 1.6 [生成随机字符串](content/chapter1_strings_1.6_生成随机字符串.md)
 
+- 1.7 [制表符收缩或者扩展](content/chapter1_strings_1.7_制表符收缩或者扩展.md)
+
 ---
 <未完待续>
 
