@@ -32,6 +32,8 @@
 
 - 1.8 [字符串大小写转换](content/chapter1_strings_1.8_字符串大小写转换.md)
 
+- 1.9 [在字符串中插入函数和表达式](content/chapter1_strings_1.9_在字符串中插入函数或者表达式.md)
+
 ---
 <未完待续>
 
