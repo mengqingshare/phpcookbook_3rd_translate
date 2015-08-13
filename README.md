@@ -38,6 +38,8 @@
 
 - 1.11 [生成逗号分隔值(CSV格式)的数据](content/chapter1_strings_1.11_生成逗号分隔值.md)
 
+- 1.12 [解析逗号分隔值(CSV格式)的数据](content/chapter1_strings_1.12_解析逗号分隔值.md)
+
 ---
 <未完待续>
 
