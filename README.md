@@ -40,6 +40,8 @@
 
 - 1.12 [解析逗号分隔值(CSV格式)的数据](content/chapter1_strings_1.12_解析逗号分隔值.md)
 
+- 1.13 [生成固定宽度的数据记录](content/chapter1_strings_1.13_生成固定宽度的数据记录.md)
+
 ---
 <未完待续>
 
